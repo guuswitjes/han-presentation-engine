@@ -1,0 +1,4 @@
+.asset-cache/
+*.pptx
+!assets/template/*.pptx
+output/
