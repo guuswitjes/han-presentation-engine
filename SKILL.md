@@ -19,7 +19,6 @@ benutten. Niet een stapel bullet-lijstjes.
 
 ## Wat deze skill NIET doet
 
-- Presentaties voor Step Ahead AI (eigen stijl)
 - Content schrijven zonder input van de gebruiker
 
 ---
